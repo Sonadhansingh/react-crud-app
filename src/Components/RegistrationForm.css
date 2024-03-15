@@ -1,0 +1,78 @@
+.add-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width:450px;
+    height: 620px;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 6px;
+    -moz-box-shadow: 3px 3px 3px  #ccc;
+    -webkit-box-shadow: 3px 3px 3px #ccc;
+    box-shadow: 3px 3px 3px#ccc;
+}
+
+.regform{
+   height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.add-container h1{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size:35px;
+    width: 100%;
+    color: whitesmoke;
+}
+
+label{
+    font-size: 20px;
+    font-family: 'Gill Sans';
+    padding-bottom: 10px;
+    color: whitesmoke;
+}
+
+input.box{
+    margin-bottom: 10px;
+    height:30px ;
+    border-radius: 6px;
+
+}
+
+.btn{
+    width: 140px;
+    border: 1px solid black;
+}
+
+/* .btn-green {
+    color: #000000;
+    background-color: #e9e9e9;
+    border-color: #000000; 
+}
+.btn-green:hover, .btn-green:focus, .btn-green:active, .btn-green.active, .open>.dropdown-toggle.btn-green {
+    color: #ffffff;
+    background-color: #4FBF26;
+    border-color: #000000; 
+}
+
+.btn-red {
+    color: #000000;
+    background-color: #e9e9e9;
+    border-color: #000000; 
+}
+.btn-red:hover, .btn-red:focus, .btn-red:active, .btn-red.active, .open>.dropdown-toggle.btn-red {
+    color: #ffffff;
+    background-color: #d10000;
+    border-color: #000000;
+} */

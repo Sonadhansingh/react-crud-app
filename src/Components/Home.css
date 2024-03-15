@@ -1,0 +1,54 @@
+.innerhome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.innerhome img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.home-heading1{
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.innerhome p{
+    font-size: 25px;
+    margin-bottom: 60px;
+    color: wheat;
+}
+
+#home-submit1{
+
+    font-size: 25px;
+    /* height: 45px; */
+    width: 150px;
+    border-radius: 10px;
+    /* background-color: rgb(223, 223, 223); */
+}
+
+#home-submit2{
+    font-size: 25px;
+    /* height: 45px; */
+    width: 150px;
+    border-radius: 10px;
+  
+   
+}
+
+.home-button{
+    display: flex;
+    gap: 50px;
+}
+

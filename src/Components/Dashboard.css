@@ -1,0 +1,25 @@
+.header1{
+    display: inline-flex;
+    align-items: flex-end;
+}
+
+h1{
+    padding-left: 10px;
+    color: whitesmoke;
+}
+
+input#fullname-undefined{
+    border: 0px;
+}
+
+th,td{
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
