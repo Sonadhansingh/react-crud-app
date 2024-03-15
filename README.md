@@ -1,3 +1,30 @@
+# Social preview
+
+### Home page:
+
+![Home page](https://github.com/Sonadhansingh/react-crud-app/assets/126173016/19ccef36-6fa4-4239-8e63-d74276e2bad5)
+
+### About page:
+
+![About page](https://github.com/Sonadhansingh/react-crud-app/assets/126173016/d07a7ec0-6506-47fb-b074-4e575a95676d)
+
+### Login page:
+
+![Login page](https://github.com/Sonadhansingh/react-crud-app/assets/126173016/4fc56b14-73f5-416b-8ae8-fb06159bd416)
+
+### Sign up page:
+
+![Sign up page](https://github.com/Sonadhansingh/react-crud-app/assets/126173016/34fd786b-8236-499f-8b09-38d984ff4d68)
+
+### Dashboard page:
+
+![Dashboard page](https://github.com/Sonadhansingh/react-crud-app/assets/126173016/d3a088f6-7aa9-4d66-adcf-2a027200bdad)
+
+### Add user page:
+
+![Add user page](https://github.com/Sonadhansingh/react-crud-app/assets/126173016/42fc751e-2352-47e5-a4e3-80c9f8ae7add)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
